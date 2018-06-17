@@ -6,4 +6,4 @@ Basic Search Engine written using Python
 
 python web_crawl.py 
 
-( Replace the webiste you want to look for , in line number 136 )
+Replace the webiste you want to search(line number 136)
